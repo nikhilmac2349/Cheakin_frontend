@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:5244";
+const BASE_URL = "https://cheakinbackend2.vercel.app/";
 
 // ____________________________________
 
