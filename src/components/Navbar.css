@@ -1,0 +1,98 @@
+.navbar {
+  height: 70px;
+  background: #667eea;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  color: white;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+
+  position: relative;
+  z-index: 1000;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
+.nav-items {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+
+.nav-items span {
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.2s;
+}
+
+.nav-items span:hover {
+  opacity: 0.8;
+}
+
+.login-btn {
+  padding: 8px 18px;
+  border-radius: 20px;
+  background: white;
+  color: #764ba2;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.user-wrapper {
+  position: relative;
+}
+
+.user-icon {
+  font-size: 22px;
+  cursor: pointer;
+  background: white;
+  color: #764ba2;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-menu {
+  position: absolute;
+  top: 45px;
+  right: 0;
+  background: white;
+  color: black;
+  min-width: 140px;
+  border-radius: 10px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  animation: fadeIn 0.15s ease-in-out;
+
+  z-index: 2000;   /* IMPORTANT FIX */
+}
+
+.user-menu div {
+  padding: 10px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.user-menu div:hover {
+  background: #f1f1f1;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

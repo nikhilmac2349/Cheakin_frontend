@@ -1,0 +1,1081 @@
+{
+  "professors": [
+    {
+      "professorId": "P001",
+      "name": "Dr. Ananya Gupta",
+      "department": "Computer Science",
+      "email": "ananya.sharma@university.edu",
+      "password": "123",
+      "id": "c586"
+    },
+    {
+      "professorId": "P002",
+      "name": "Dr. Rohan Mehta",
+      "department": "Information Technology",
+      "email": "rohan.mehta@university.edu",
+      "password": "123",
+      "id": "5627"
+    },
+    {
+      "professorId": "P003",
+      "name": "Dr. Priya Nair",
+      "department": "Electronics",
+      "email": "priya.nair@university.edu",
+      "password": "123",
+      "id": "d95a"
+    },
+    {
+      "professorId": "P004",
+      "name": "Dr. Amit Kulkarni",
+      "department": "Mechanical Engineering",
+      "email": "amit.kulkarni@university.edu",
+      "password": "123",
+      "id": "88c3"
+    },
+    {
+      "id": "b39d",
+      "professorId": "P20260216131115",
+      "name": "Nikhil Kumar Gupta",
+      "department": "Computer Science",
+      "email": "nkgup2349@gmail.com",
+      "password": "123"
+    }
+  ],
+  "students": [
+    {
+      "studentId": "S001",
+      "name": "Rahul Mehta",
+      "program": "B.Tech",
+      "year": 3,
+      "id": "6527",
+      "email": "rahul.mehta@example.com"
+    },
+    {
+      "studentId": "S002",
+      "name": "Neha Verma",
+      "program": "B.Tech",
+      "year": 2,
+      "id": "5111",
+      "email": "neha.verma@example.com"
+    },
+    {
+      "studentId": "S003",
+      "name": "Arjun Singh",
+      "program": "B.Tech",
+      "year": 4,
+      "id": "ca74",
+      "email": "arjun.singh@example.com"
+    },
+    {
+      "studentId": "S004",
+      "name": "Sneha Patil",
+      "program": "M.Tech",
+      "year": 1,
+      "id": "73eb",
+      "email": "sneha.patil@example.com"
+    },
+    {
+      "studentId": "S005",
+      "name": "Karan Joshi",
+      "program": "B.Tech",
+      "year": 1,
+      "id": "a50c",
+      "email": "karan.joshi@example.com"
+    },
+    {
+      "studentId": "S006",
+      "name": "Pooja Iyer",
+      "program": "M.Tech",
+      "year": 2,
+      "id": "400e",
+      "email": "pooja.iyer@example.com"
+    },
+    {
+      "studentId": "S007",
+      "name": "Vikram Malhotra",
+      "program": "B.Tech",
+      "year": 2,
+      "id": "5dcd",
+      "email": "vikram.malhotra@example.com"
+    },
+    {
+      "studentId": "S008",
+      "name": "Anjali Das",
+      "program": "PhD",
+      "year": 1,
+      "id": "8fba",
+      "email": "anjali.das@example.com"
+    },
+    {
+      "studentId": "S009",
+      "name": "Rohit Reddy",
+      "program": "B.Tech",
+      "year": 3,
+      "id": "df35",
+      "email": "rohit.reddy@example.com"
+    },
+    {
+      "studentId": "S010",
+      "name": "Kavita Rao",
+      "program": "B.Tech",
+      "year": 4,
+      "id": "3346",
+      "email": "kavita.rao@example.com"
+    },
+    {
+      "studentId": "S011",
+      "name": "Sameer Khan",
+      "program": "M.Tech",
+      "year": 1,
+      "id": "e224",
+      "email": "sameer.khan@example.com"
+    },
+    {
+      "studentId": "S012",
+      "name": "Meera Kapoor",
+      "program": "B.Tech",
+      "year": 1,
+      "id": "1985",
+      "email": "meera.kapoor@example.com"
+    },
+    {
+      "studentId": "S013",
+      "name": "Varun Chawla",
+      "program": "PhD",
+      "year": 2,
+      "id": "4e1e",
+      "email": "varun.chawla@example.com"
+    },
+    {
+      "studentId": "S014",
+      "name": "Ishan Gupta",
+      "program": "B.Tech",
+      "year": 2,
+      "id": "330d",
+      "email": "ishan.gupta@example.com"
+    },
+    {
+      "studentId": "S015",
+      "name": "Zara Ahmed",
+      "program": "B.Tech",
+      "year": 3,
+      "id": "9a11",
+      "email": "zara.ahmed@example.com"
+    },
+    {
+      "studentId": "S016",
+      "name": "Riya Somani",
+      "program": "B.Tech",
+      "year": 2,
+      "id": "30dd",
+      "email": "riya.somani@example.com"
+    },
+    {
+      "studentId": "S017",
+      "name": "Aditya Roy",
+      "program": "M.Tech",
+      "year": 1,
+      "id": "c0d7",
+      "email": "aditya.roy@example.com"
+    },
+    {
+      "studentId": "S018",
+      "name": "Sanya Mirza",
+      "program": "B.Tech",
+      "year": 4,
+      "id": "f4c6",
+      "email": "sanya.mirza@example.com"
+    },
+    {
+      "studentId": "S019",
+      "name": "Kabir Bedi",
+      "program": "PhD",
+      "year": 3,
+      "id": "49c4",
+      "email": "kabir.bedi@example.com"
+    },
+    {
+      "studentId": "S020",
+      "name": "Tanvi Shah",
+      "program": "B.Tech",
+      "year": 1,
+      "id": "83a3",
+      "email": "tanvi.shah@example.com"
+    },
+    {
+      "studentId": "S021",
+      "name": "Dev Patel",
+      "program": "B.Tech",
+      "year": 3,
+      "id": "a45b",
+      "email": "dev.patel@example.com"
+    },
+    {
+      "studentId": "S022",
+      "name": "Ishita Kumar",
+      "program": "M.Tech",
+      "year": 2,
+      "id": "3087",
+      "email": "ishita.kumar@example.com"
+    },
+    {
+      "studentId": "S023",
+      "name": "Manish Tiwari",
+      "program": "B.Tech",
+      "year": 2,
+      "id": "7ebe",
+      "email": "manish.tiwari@example.com"
+    },
+    {
+      "studentId": "S024",
+      "name": "Simran Kaur",
+      "program": "PhD",
+      "year": 1,
+      "id": "f633",
+      "email": "simran.kaur@example.com"
+    },
+    {
+      "studentId": "S025",
+      "name": "Yash Vardhan",
+      "program": "B.Tech",
+      "year": 4,
+      "id": "eaf7",
+      "email": "yash.vardhan@example.com"
+    },
+    {
+      "studentId": "S026",
+      "name": "Farhan Akhtar",
+      "program": "M.Tech",
+      "year": 1,
+      "id": "6e5f",
+      "email": "farhan.akhtar@example.com"
+    },
+    {
+      "studentId": "S027",
+      "name": "Gauri Shinde",
+      "program": "B.Tech",
+      "year": 3,
+      "id": "210e",
+      "email": "gauri.shinde@example.com"
+    },
+    {
+      "studentId": "S028",
+      "name": "Harshvardhan R",
+      "program": "B.Tech",
+      "year": 1,
+      "id": "dc4b",
+      "email": "harshvardhan.r@example.com"
+    },
+    {
+      "studentId": "S029",
+      "name": "Jhanvi Kapoor",
+      "program": "B.Tech",
+      "year": 2,
+      "id": "13ba",
+      "email": "jhanvi.kapoor@example.com"
+    },
+    {
+      "studentId": "S030",
+      "name": "Lakshya Sen",
+      "program": "M.Tech",
+      "year": 2,
+      "id": "2978",
+      "email": "lakshya.sen@example.com"
+    },
+    {
+      "id": "f7b1",
+      "studentId": "S5830",
+      "name": "qqweqrwqrrwerrewewrtwetetetywerturewtyuresd",
+      "email": "fupta@gmail.com",
+      "program": "b.tech",
+      "year": "1"
+    }
+  ],
+  "plannedCheckIns": [
+    {
+      "planId": "PL001",
+      "professorId": "P001",
+      "studentId": "S001",
+      "frequency": "Monthly",
+      "plannedCount": 4,
+      "semester": "Spring 2026",
+      "id": "9306"
+    },
+    {
+      "planId": "PL002",
+      "professorId": "P001",
+      "studentId": "S002",
+      "frequency": "Bi-Weekly",
+      "plannedCount": 6,
+      "semester": "Spring 2026",
+      "id": "67c1"
+    },
+    {
+      "planId": "PL003",
+      "professorId": "P002",
+      "studentId": "S003",
+      "frequency": "Monthly",
+      "plannedCount": 4,
+      "semester": "Spring 2026",
+      "id": "2251"
+    },
+    {
+      "planId": "PL004",
+      "professorId": "P002",
+      "studentId": "S004",
+      "frequency": "Weekly",
+      "plannedCount": 8,
+      "semester": "Spring 2026",
+      "id": "af33"
+    },
+    {
+      "planId": "PL005",
+      "professorId": "P003",
+      "studentId": "S005",
+      "frequency": "Monthly",
+      "plannedCount": 3,
+      "semester": "Spring 2026",
+      "id": "5613"
+    },
+    {
+      "planId": "PL006",
+      "professorId": "P004",
+      "studentId": "S006",
+      "frequency": "Bi-Weekly",
+      "plannedCount": 5,
+      "semester": "Spring 2026",
+      "id": "764e"
+    },
+    {
+      "planId": "PL007",
+      "professorId": "P001",
+      "studentId": "S007",
+      "frequency": "Monthly",
+      "plannedCount": 4,
+      "semester": "Spring 2026",
+      "id": "d182"
+    },
+    {
+      "planId": "PL008",
+      "professorId": "P001",
+      "studentId": "S008",
+      "frequency": "Weekly",
+      "plannedCount": 12,
+      "semester": "Spring 2026",
+      "id": "2528"
+    },
+    {
+      "planId": "PL009",
+      "professorId": "P002",
+      "studentId": "S009",
+      "frequency": "Bi-Weekly",
+      "plannedCount": 6,
+      "semester": "Spring 2026",
+      "id": "3ca6"
+    },
+    {
+      "planId": "PL010",
+      "professorId": "P003",
+      "studentId": "S010",
+      "frequency": "Monthly",
+      "plannedCount": 4,
+      "semester": "Spring 2026",
+      "id": "5a8c"
+    },
+    {
+      "planId": "PL011",
+      "professorId": "P003",
+      "studentId": "S011",
+      "frequency": "Bi-Weekly",
+      "plannedCount": 6,
+      "semester": "Spring 2026",
+      "id": "4642"
+    },
+    {
+      "planId": "PL012",
+      "professorId": "P004",
+      "studentId": "S012",
+      "frequency": "Monthly",
+      "plannedCount": 3,
+      "semester": "Spring 2026",
+      "id": "afdb"
+    },
+    {
+      "planId": "PL013",
+      "professorId": "P004",
+      "studentId": "S013",
+      "frequency": "Weekly",
+      "plannedCount": 10,
+      "semester": "Spring 2026",
+      "id": "dab1"
+    },
+    {
+      "planId": "PL014",
+      "professorId": "P002",
+      "studentId": "S014",
+      "frequency": "Monthly",
+      "plannedCount": 4,
+      "semester": "Spring 2026",
+      "id": "99a3"
+    },
+    {
+      "planId": "PL015",
+      "professorId": "P001",
+      "studentId": "S015",
+      "frequency": "Bi-Weekly",
+      "plannedCount": 5,
+      "semester": "Spring 2026",
+      "id": "3195"
+    },
+    {
+      "planId": "PL016",
+      "professorId": "P001",
+      "studentId": "S016",
+      "frequency": "Monthly",
+      "plannedCount": 4,
+      "semester": "Spring 2026",
+      "id": "f87e"
+    },
+    {
+      "planId": "PL017",
+      "professorId": "P002",
+      "studentId": "S017",
+      "frequency": "Weekly",
+      "plannedCount": 10,
+      "semester": "Spring 2026",
+      "id": "18f0"
+    },
+    {
+      "planId": "PL018",
+      "professorId": "P003",
+      "studentId": "S018",
+      "frequency": "Bi-Weekly",
+      "plannedCount": 6,
+      "semester": "Spring 2026",
+      "id": "deb4"
+    },
+    {
+      "planId": "PL019",
+      "professorId": "P004",
+      "studentId": "S019",
+      "frequency": "Monthly",
+      "plannedCount": 5,
+      "semester": "Spring 2026",
+      "id": "30c0"
+    },
+    {
+      "planId": "PL020",
+      "professorId": "P001",
+      "studentId": "S020",
+      "frequency": "Monthly",
+      "plannedCount": 3,
+      "semester": "Spring 2026",
+      "id": "e10e"
+    },
+    {
+      "planId": "PL021",
+      "professorId": "P002",
+      "studentId": "S021",
+      "frequency": "Bi-Weekly",
+      "plannedCount": 7,
+      "semester": "Spring 2026",
+      "id": "a08d"
+    },
+    {
+      "planId": "PL022",
+      "professorId": "P003",
+      "studentId": "S022",
+      "frequency": "Weekly",
+      "plannedCount": 12,
+      "semester": "Spring 2026",
+      "id": "28a1"
+    },
+    {
+      "planId": "PL023",
+      "professorId": "P004",
+      "studentId": "S023",
+      "frequency": "Monthly",
+      "plannedCount": 4,
+      "semester": "Spring 2026",
+      "id": "24cf"
+    },
+    {
+      "planId": "PL024",
+      "professorId": "P001",
+      "studentId": "S024",
+      "frequency": "Weekly",
+      "plannedCount": 15,
+      "semester": "Spring 2026",
+      "id": "28a4"
+    },
+    {
+      "planId": "PL025",
+      "professorId": "P002",
+      "studentId": "S025",
+      "frequency": "Monthly",
+      "plannedCount": 4,
+      "semester": "Spring 2026",
+      "id": "d635"
+    },
+    {
+      "planId": "PL026",
+      "professorId": "P003",
+      "studentId": "S026",
+      "frequency": "Bi-Weekly",
+      "plannedCount": 6,
+      "semester": "Spring 2026",
+      "id": "ccf0"
+    },
+    {
+      "planId": "PL027",
+      "professorId": "P004",
+      "studentId": "S027",
+      "frequency": "Monthly",
+      "plannedCount": 4,
+      "semester": "Spring 2026",
+      "id": "176e"
+    },
+    {
+      "planId": "PL028",
+      "professorId": "P001",
+      "studentId": "S028",
+      "frequency": "Bi-Weekly",
+      "plannedCount": 5,
+      "semester": "Spring 2026",
+      "id": "40a6"
+    },
+    {
+      "planId": "PL029",
+      "professorId": "P002",
+      "studentId": "S029",
+      "frequency": "Weekly",
+      "plannedCount": 8,
+      "semester": "Spring 2026",
+      "id": "d58e"
+    },
+    {
+      "planId": "PL030",
+      "professorId": "P003",
+      "studentId": "S030",
+      "frequency": "Monthly",
+      "plannedCount": 4,
+      "semester": "Spring 2026",
+      "id": "02e9"
+    },
+    {
+      "id": "5835",
+      "planId": "PL835",
+      "professorId": "P001",
+      "studentId": "S5830",
+      "frequency": "Monthly",
+      "plannedCount": 12,
+      "semester": "Spring2026"
+    }
+  ],
+  "actualCheckIns": [
+    {
+      "checkInId": "AC001",
+      "professorId": "P001",
+      "studentId": "S001",
+      "date": "2026-02-05",
+      "durationMinutes": 30,
+      "notes": "Project discussion",
+      "id": "31df"
+    },
+    {
+      "checkInId": "AC002",
+      "professorId": "P001",
+      "studentId": "S002",
+      "date": "2026-02-12",
+      "durationMinutes": 20,
+      "notes": "Academic guidance",
+      "id": "46a3"
+    },
+    {
+      "checkInId": "AC003",
+      "professorId": "P002",
+      "studentId": "S003",
+      "date": "2026-02-18",
+      "durationMinutes": 25,
+      "notes": "Final year review",
+      "id": "95a6"
+    },
+    {
+      "checkInId": "AC004",
+      "professorId": "P002",
+      "studentId": "S004",
+      "date": "2026-03-01",
+      "durationMinutes": 35,
+      "notes": "Research discussion",
+      "id": "5710"
+    },
+    {
+      "checkInId": "AC005",
+      "professorId": "P003",
+      "studentId": "S005",
+      "date": "2026-02-20",
+      "durationMinutes": 15,
+      "notes": "Initial mentorship",
+      "id": "b879"
+    },
+    {
+      "checkInId": "AC006",
+      "professorId": "P004",
+      "studentId": "S006",
+      "date": "2026-03-05",
+      "durationMinutes": 40,
+      "notes": "Thesis planning",
+      "id": "86e9"
+    },
+    {
+      "checkInId": "AC007",
+      "professorId": "P001",
+      "studentId": "S008",
+      "date": "2026-02-10",
+      "durationMinutes": 60,
+      "notes": "PhD topic proposal review",
+      "id": "b289"
+    },
+    {
+      "checkInId": "AC008",
+      "professorId": "P001",
+      "studentId": "S007",
+      "date": "2026-02-15",
+      "durationMinutes": 20,
+      "notes": "Code review for internship",
+      "id": "89ba"
+    },
+    {
+      "checkInId": "AC009",
+      "professorId": "P002",
+      "studentId": "S009",
+      "date": "2026-02-22",
+      "durationMinutes": 30,
+      "notes": "Database optimization doubts",
+      "id": "3291"
+    },
+    {
+      "checkInId": "AC010",
+      "professorId": "P003",
+      "studentId": "S010",
+      "date": "2026-02-25",
+      "durationMinutes": 45,
+      "notes": "Career counseling",
+      "id": "8421"
+    },
+    {
+      "checkInId": "AC011",
+      "professorId": "P003",
+      "studentId": "S011",
+      "date": "2026-02-28",
+      "durationMinutes": 25,
+      "notes": "Lab setup assistance",
+      "id": "2e9b"
+    },
+    {
+      "checkInId": "AC012",
+      "professorId": "P004",
+      "studentId": "S013",
+      "date": "2026-03-02",
+      "durationMinutes": 50,
+      "notes": "Dissertation methodology",
+      "id": "fa7a"
+    },
+    {
+      "checkInId": "AC013",
+      "professorId": "P004",
+      "studentId": "S012",
+      "date": "2026-03-03",
+      "durationMinutes": 15,
+      "notes": "First year orientation follow-up",
+      "id": "04fe"
+    },
+    {
+      "checkInId": "AC014",
+      "professorId": "P001",
+      "studentId": "S008",
+      "date": "2026-02-24",
+      "durationMinutes": 45,
+      "notes": "Literature review progress",
+      "id": "13d1"
+    },
+    {
+      "checkInId": "AC015",
+      "professorId": "P001",
+      "studentId": "S015",
+      "date": "2026-03-04",
+      "durationMinutes": 30,
+      "notes": "Algorithm complexity discussion",
+      "id": "8c24"
+    },
+    {
+      "checkInId": "AC016",
+      "professorId": "P002",
+      "studentId": "S014",
+      "date": "2026-03-06",
+      "durationMinutes": 20,
+      "notes": "Mid-term performance review",
+      "id": "2aeb"
+    },
+    {
+      "checkInId": "AC017",
+      "professorId": "P002",
+      "studentId": "S004",
+      "date": "2026-03-08",
+      "durationMinutes": 30,
+      "notes": "Follow up on research paper",
+      "id": "98fb"
+    },
+    {
+      "checkInId": "AC018",
+      "professorId": "P001",
+      "studentId": "S024",
+      "date": "2026-02-02",
+      "durationMinutes": 45,
+      "notes": "Grant proposal draft",
+      "id": "e050"
+    },
+    {
+      "checkInId": "AC019",
+      "professorId": "P001",
+      "studentId": "S024",
+      "date": "2026-02-16",
+      "durationMinutes": 50,
+      "notes": "Grant proposal correction",
+      "id": "aac2"
+    },
+    {
+      "checkInId": "AC020",
+      "professorId": "P001",
+      "studentId": "S016",
+      "date": "2026-02-18",
+      "durationMinutes": 20,
+      "notes": "Data structures query",
+      "id": "b86a"
+    },
+    {
+      "checkInId": "AC021",
+      "professorId": "P002",
+      "studentId": "S017",
+      "date": "2026-02-04",
+      "durationMinutes": 30,
+      "notes": "Network security assignment",
+      "id": "7050"
+    },
+    {
+      "checkInId": "AC022",
+      "professorId": "P002",
+      "studentId": "S017",
+      "date": "2026-02-11",
+      "durationMinutes": 30,
+      "notes": "Firewall configuration lab",
+      "id": "001f"
+    },
+    {
+      "checkInId": "AC023",
+      "professorId": "P003",
+      "studentId": "S018",
+      "date": "2026-02-21",
+      "durationMinutes": 40,
+      "notes": "Embedded systems project",
+      "id": "69ec"
+    },
+    {
+      "checkInId": "AC024",
+      "professorId": "P004",
+      "studentId": "S019",
+      "date": "2026-02-14",
+      "durationMinutes": 60,
+      "notes": "Thermodynamics simulation result",
+      "id": "c95e"
+    },
+    {
+      "checkInId": "AC025",
+      "professorId": "P004",
+      "studentId": "S019",
+      "date": "2026-02-28",
+      "durationMinutes": 55,
+      "notes": "Journal submission review",
+      "id": "8d21"
+    },
+    {
+      "checkInId": "AC026",
+      "professorId": "P001",
+      "studentId": "S020",
+      "date": "2026-03-01",
+      "durationMinutes": 15,
+      "notes": "Intro to Python doubts",
+      "id": "9783"
+    },
+    {
+      "checkInId": "AC027",
+      "professorId": "P002",
+      "studentId": "S021",
+      "date": "2026-02-19",
+      "durationMinutes": 25,
+      "notes": "Cloud computing architecture",
+      "id": "c621"
+    },
+    {
+      "checkInId": "AC028",
+      "professorId": "P002",
+      "studentId": "S021",
+      "date": "2026-03-05",
+      "durationMinutes": 25,
+      "notes": "AWS deployment help",
+      "id": "b4f2"
+    },
+    {
+      "checkInId": "AC029",
+      "professorId": "P003",
+      "studentId": "S022",
+      "date": "2026-02-03",
+      "durationMinutes": 35,
+      "notes": "VLSI design verification",
+      "id": "c923"
+    },
+    {
+      "checkInId": "AC030",
+      "professorId": "P003",
+      "studentId": "S022",
+      "date": "2026-02-10",
+      "durationMinutes": 30,
+      "notes": "Signal processing error",
+      "id": "862a"
+    },
+    {
+      "checkInId": "AC031",
+      "professorId": "P003",
+      "studentId": "S022",
+      "date": "2026-02-17",
+      "durationMinutes": 30,
+      "notes": "Fabrication process query",
+      "id": "63ea"
+    },
+    {
+      "checkInId": "AC032",
+      "professorId": "P004",
+      "studentId": "S023",
+      "date": "2026-02-22",
+      "durationMinutes": 20,
+      "notes": "CAD model review",
+      "id": "f3a7"
+    },
+    {
+      "checkInId": "AC033",
+      "professorId": "P001",
+      "studentId": "S024",
+      "date": "2026-03-02",
+      "durationMinutes": 45,
+      "notes": "Ethics committee feedback",
+      "id": "c398"
+    },
+    {
+      "checkInId": "AC034",
+      "professorId": "P002",
+      "studentId": "S025",
+      "date": "2026-02-26",
+      "durationMinutes": 30,
+      "notes": "Mobile app UI/UX review",
+      "id": "8a94"
+    },
+    {
+      "checkInId": "AC035",
+      "professorId": "P003",
+      "studentId": "S026",
+      "date": "2026-02-15",
+      "durationMinutes": 40,
+      "notes": "Robotics arm kinematics",
+      "id": "6b62"
+    },
+    {
+      "checkInId": "AC036",
+      "professorId": "P003",
+      "studentId": "S026",
+      "date": "2026-03-01",
+      "durationMinutes": 35,
+      "notes": "Sensor calibration",
+      "id": "14aa"
+    },
+    {
+      "checkInId": "AC037",
+      "professorId": "P004",
+      "studentId": "S027",
+      "date": "2026-02-18",
+      "durationMinutes": 20,
+      "notes": "Fluid mechanics lab",
+      "id": "0f70"
+    },
+    {
+      "checkInId": "AC038",
+      "professorId": "P001",
+      "studentId": "S028",
+      "date": "2026-02-08",
+      "durationMinutes": 15,
+      "notes": "Attendance concern",
+      "id": "8627"
+    },
+    {
+      "checkInId": "AC039",
+      "professorId": "P001",
+      "studentId": "S028",
+      "date": "2026-02-22",
+      "durationMinutes": 20,
+      "notes": "Improvement in C++",
+      "id": "17cd"
+    },
+    {
+      "checkInId": "AC040",
+      "professorId": "P002",
+      "studentId": "S029",
+      "date": "2026-02-13",
+      "durationMinutes": 25,
+      "notes": "Web dev framework choice",
+      "id": "de82"
+    },
+    {
+      "checkInId": "AC041",
+      "professorId": "P002",
+      "studentId": "S029",
+      "date": "2026-02-20",
+      "durationMinutes": 25,
+      "notes": "ReactJS component structure",
+      "id": "ab4f"
+    },
+    {
+      "checkInId": "AC042",
+      "professorId": "P002",
+      "studentId": "S029",
+      "date": "2026-02-27",
+      "durationMinutes": 30,
+      "notes": "API integration issue",
+      "id": "e969"
+    },
+    {
+      "checkInId": "AC043",
+      "professorId": "P003",
+      "studentId": "S030",
+      "date": "2026-02-09",
+      "durationMinutes": 45,
+      "notes": "Master's thesis problem statement",
+      "id": "1a6e"
+    },
+    {
+      "checkInId": "AC044",
+      "professorId": "P003",
+      "studentId": "S030",
+      "date": "2026-03-09",
+      "durationMinutes": 40,
+      "notes": "Hardware procurement approval",
+      "id": "53a0"
+    },
+    {
+      "checkInId": "AC045",
+      "professorId": "P001",
+      "studentId": "S001",
+      "date": "2026-03-07",
+      "durationMinutes": 35,
+      "notes": "Code refactoring session",
+      "id": "c116"
+    },
+    {
+      "checkInId": "AC046",
+      "professorId": "P004",
+      "studentId": "S006",
+      "date": "2026-03-10",
+      "durationMinutes": 20,
+      "notes": "Simulation software license",
+      "id": "04c3"
+    },
+    {
+      "checkInId": "AC047",
+      "professorId": "P002",
+      "studentId": "S003",
+      "date": "2026-03-04",
+      "durationMinutes": 15,
+      "notes": "Resume review",
+      "id": "fa24"
+    },
+    {
+      "checkInId": "AC048",
+      "professorId": "P003",
+      "studentId": "S011",
+      "date": "2026-03-08",
+      "durationMinutes": 30,
+      "notes": "Circuit testing results",
+      "id": "5f59"
+    },
+    {
+      "checkInId": "AC049",
+      "professorId": "P001",
+      "studentId": "S024",
+      "date": "2026-03-09",
+      "durationMinutes": 30,
+      "notes": "Conference travel grant",
+      "id": "9be7"
+    },
+    {
+      "checkInId": "AC050",
+      "professorId": "P002",
+      "studentId": "S017",
+      "date": "2026-03-05",
+      "durationMinutes": 25,
+      "notes": "VPN setup troubleshooting",
+      "id": "fb0d"
+    },
+    {
+      "id": "4b20",
+      "checkInId": "AC1771196939481",
+      "professorId": "P001",
+      "studentId": "S030",
+      "date": "2026-02-15",
+      "durationMinutes": 30,
+      "notes": "we talked about the data centers"
+    },
+    {
+      "id": "aefb",
+      "checkInId": "AC1771196970911",
+      "professorId": "P001",
+      "studentId": "S015",
+      "date": "2026-02-15",
+      "durationMinutes": 23,
+      "notes": "wiefhwe0i"
+    },
+    {
+      "id": "1ef5",
+      "checkInId": "AC1771197061846",
+      "professorId": "P001",
+      "studentId": "S006",
+      "date": "2026-02-15",
+      "durationMinutes": 123,
+      "notes": "qriwehgerieheori"
+    },
+    {
+      "id": "9fce",
+      "checkInId": "AC1771197168013",
+      "professorId": "P001",
+      "studentId": "S024",
+      "date": "2026-02-15",
+      "durationMinutes": 234,
+      "notes": "wefo"
+    },
+    {
+      "id": "bd77",
+      "checkInId": "AC1771197185918",
+      "professorId": "P001",
+      "studentId": "S008",
+      "date": "2026-02-15",
+      "durationMinutes": 123,
+      "notes": "wieugfqilwuagfiewlfgailfugfleuiyfgbaedfladbglehdsbgfsalfg"
+    },
+    {
+      "id": "926c",
+      "checkInId": "AC1771199309034",
+      "professorId": "P001",
+      "studentId": "S5830",
+      "date": "2026-02-15",
+      "durationMinutes": 20,
+      "notes": "just introduced the child"
+    }
+  ]
+}

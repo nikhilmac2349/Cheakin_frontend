@@ -1,0 +1,116 @@
+/* Page wrapper */
+.main_div {
+    width: 100%;
+    min-height: 100svh; /* mobile-safe viewport height */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* background: linear-gradient(135deg, #74ebd5, #9face6); */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Login card */
+#border_div {
+    width: 300px;
+    padding: 24px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+
+    background-color: #ffffff;
+    border-radius: 16px;
+
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+/* Title */
+#border_div > div:first-child {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* Form container */
+#border_div > div:last-child {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+/* Labels */
+label {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+}
+
+/* Inputs */
+input {
+    width: 100%;
+    padding:5px 3px;
+
+    border-radius: 8px;
+    border: 1px solid #ccc;
+
+    font-size: 14px;
+    outline: none;
+}
+
+input:focus {
+    border-color: #6a5acd;
+    box-shadow: 0 0 0 2px rgba(106, 90, 205, 0.2);
+}
+
+/* Button */
+button {
+    margin-top: 12px;
+    padding: 10px;
+
+    border: none;
+    border-radius: 8px;
+
+    background-color: #6a5acd;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+button:hover {
+    background-color: #5941c7;
+}
+
+button:active {
+    transform: scale(0.97);
+}
+
+/* Error message */
+#error-massage {
+    margin-top: 6px;
+    font-size: 12px;
+    color: red;
+    text-align: center;
+}
+
+
+
+.signup-text {
+    font-size: 13px;
+    text-align: center;
+}
+
+.signup-text a {
+    color: #6a5acd;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.signup-text a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,82 @@
+{
+  "professors": [
+    { "id": 1, "name": "Dr. Sharma", "department": "Computer Science" },
+    { "id": 2, "name": "Dr. Mehta", "department": "Electronics" },
+    { "id": 3, "name": "Dr. Iyer", "department": "Mechanical" },
+    { "id": 4, "name": "Dr. Khan", "department": "Mathematics" }
+  ],
+
+  "students": [
+    { "id": 101, "name": "Amit Patel", "program": "BTech", "year": 3, "professorId": 1 },
+    { "id": 102, "name": "Neha Singh", "program": "BTech", "year": 2, "professorId": 1 },
+    { "id": 103, "name": "Rohit Verma", "program": "MTech", "year": 1, "professorId": 2 },
+    { "id": 104, "name": "Sneha Nair", "program": "BTech", "year": 4, "professorId": 2 },
+    { "id": 105, "name": "Karan Rao", "program": "BTech", "year": 1, "professorId": 3 },
+    { "id": 106, "name": "Pooja Das", "program": "MSc", "year": 2, "professorId": 4 }
+  ],
+
+  "plans": [
+    {
+      "id": 1,
+      "professorId": 1,
+      "studentId": 101,
+      "frequency": "Biweekly",
+      "expectedCheckIns": 8,
+      "semester": "Spring 2026"
+    },
+    {
+      "id": 2,
+      "professorId": 1,
+      "studentId": 102,
+      "frequency": "Monthly",
+      "expectedCheckIns": 4,
+      "semester": "Spring 2026"
+    },
+    {
+      "id": 3,
+      "professorId": 2,
+      "studentId": 103,
+      "frequency": "Weekly",
+      "expectedCheckIns": 16,
+      "semester": "Spring 2026"
+    },
+    {
+      "id": 4,
+      "professorId": 3,
+      "studentId": 105,
+      "frequency": "Monthly",
+      "expectedCheckIns": 4,
+      "semester": "Spring 2026"
+    }
+  ],
+
+  "checkins": [
+    {
+      "id": 1001,
+      "professorId": 1,
+      "studentId": 101,
+      "date": "2026-01-10",
+      "durationMinutes": 25,
+      "mode": "Online",
+      "notes": "Discussed project progress"
+    },
+    {
+      "id": 1002,
+      "professorId": 1,
+      "studentId": 101,
+      "date": "2026-01-24",
+      "durationMinutes": 30,
+      "mode": "Offline",
+      "notes": "Reviewed assignments"
+    },
+    {
+      "id": 1003,
+      "professorId": 2,
+      "studentId": 103,
+      "date": "2026-01-08",
+      "durationMinutes": 20,
+      "mode": "Online",
+      "notes": "Initial check-in"
+    }
+  ]
+}
